@@ -1,0 +1,4 @@
+heatseries
+==========
+
+heatmaps for timeseries.
